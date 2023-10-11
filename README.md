@@ -1,3 +1,3 @@
 # Game-Project
-Test
+For Testing:
 Simply Just download the Project and run.
